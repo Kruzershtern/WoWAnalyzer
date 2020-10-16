@@ -585,7 +585,7 @@
   "warrior.fury.suggestions.rampages.missed": "{actual} missed Rampages.",
   "warrior.fury.suggestions.siegeBreaker.efficiency": "{0}% of Recklessnesses casts without a Siegebreaker cast",
   "warrior.fury.suggestions.whirlwind.badCasts": "{0}% of bad Whirlwind casts",
-  "warrior.protection.suggestions.alwaysBeCasting.downtime": "{0}% downtime",
+  "warrior.protection.suggestions.alwaysBeCasting.downtime": "{0}% простоя",
   "warrior.protection.suggestions.avatar.efficiency": "{0}% Avatar casts",
   "warrior.protection.suggestions.block.damageMitigated": "{0}% was mitigated by a block spell",
   "warrior.protection.suggestions.bolster.efficiency": "You overlapped shield block and last stand {0} times.",
